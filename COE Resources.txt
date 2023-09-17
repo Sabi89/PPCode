@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/power-platform/guidance/adoption/admin-best-practices
+https://powerapps.microsoft.com/en-us/blog/update-to-the-power-apps-and-power-automate-administration-and-governance-whitepaper-is-now-available/
+
+https://learn.microsoft.com/en-us/power-platform/admin/governance-considerations
